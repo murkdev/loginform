@@ -1,0 +1,2 @@
+lightblue background color: #36E6FE
+gray color: #526571
